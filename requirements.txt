@@ -1,0 +1,16 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+sqlalchemy==2.0.25
+pydantic==2.5.3
+python-jose[cryptography]==3.3.0
+passlib==1.7.4
+bcrypt==4.1.2
+python-multipart==0.0.6
+scapy==2.5.0
+scikit-learn==1.4.0
+pandas==2.2.0
+numpy==1.26.3
+psycopg2-binary==2.9.9
+python-dateutil==2.8.2
+websockets==12.0
+aiofiles==23.2.1
